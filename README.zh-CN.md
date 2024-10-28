@@ -1,6 +1,6 @@
-visual-studio-code-extenions
+视觉工作室代码扩展
 
-# Visual Studio 代码扩展
+# Visual Studio Code Extension
 
 > 斯拉格莱恩
 
