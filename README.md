@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+visual-studio-code-extenions
+# Visual Studio Code Extension
 
 > Slugline
 
