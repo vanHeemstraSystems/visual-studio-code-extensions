@@ -16,4 +16,5 @@ After that VS Code recognised the new file extensions and used the correct synta
 ## Samples
 
 - [samples/sample.pgsql](../../samples/sample.pgsql)
+- [samples/sample.psql](../../samples/sample.psql)
 - [samples/sample.sql](../../samples/sample.sql)
