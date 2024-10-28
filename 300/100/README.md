@@ -12,3 +12,8 @@ What I did then:
 - Reload the window
 
 After that VS Code recognised the new file extensions and used the correct syntax highlighting (Language Mode "Postgres").
+
+## Samples
+
+- [samples/sample.pgsql](../../samples/sample.pgsql)
+- [samples/sample.sql](../../samples/sample.sql)
