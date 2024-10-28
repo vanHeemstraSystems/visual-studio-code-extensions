@@ -1,4 +1,4 @@
-视觉工作室代码扩展
+visual-studio-code-extenions
 
 # Visual Studio 代码扩展
 
