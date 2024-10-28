@@ -1,4 +1,4 @@
-extensions de code-visual-studio
+visual-studio-code-extenions
 
 # Extension de code Visual Studio
 
@@ -10,7 +10,7 @@ extensions de code-visual-studio
 
 Texte
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -18,7 +18,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
