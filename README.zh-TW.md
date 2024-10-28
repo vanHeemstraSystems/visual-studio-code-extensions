@@ -2,7 +2,7 @@
 
 # Visual Studio 程式碼擴充
 
-> Slugline
+> 斯拉格萊恩
 
 [參考](./REFERENCES.md)
 
@@ -10,7 +10,7 @@
 
 文字
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
@@ -24,4 +24,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
