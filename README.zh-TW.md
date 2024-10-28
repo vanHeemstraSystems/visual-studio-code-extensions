@@ -1,6 +1,6 @@
-儲存庫名稱
+視覺工作室代碼擴展
 
-# 儲存庫名稱
+# Visual Studio Code Extension
 
 > 斯拉格萊恩
 
@@ -20,8 +20,8 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
