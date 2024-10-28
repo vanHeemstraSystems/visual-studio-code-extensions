@@ -1,10 +1,10 @@
-nombre-repositorio
+extensiones-de-código-visual-studio
 
-# Nombre del repositorio
+# Visual Studio Code Extension
 
 > línea de bala
 
-[References](./REFERENCES.md)
+[Referencias](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
