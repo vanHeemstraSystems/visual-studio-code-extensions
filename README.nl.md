@@ -1,24 +1,24 @@
 visual-studio-code-extensies
 
-# Visual Studio Code Extension
+# Visual Studio Code-extensie
 
 > Slaklijn
 
 [Referenties](./REFERENCES.md)
 
-**Samenvatting**
+**Executive Summary**
 
-Tekst
+Text
 
 ## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
