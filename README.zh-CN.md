@@ -4,21 +4,21 @@
 
 > 斯拉格莱恩
 
-[参考](./REFERENCES.md)
+[References](./REFERENCES.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
-## 300 - 构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
