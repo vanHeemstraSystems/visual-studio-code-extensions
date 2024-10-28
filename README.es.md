@@ -1,6 +1,6 @@
 extensiones-de-código-visual-studio
 
-# Visual Studio Code Extension
+# Extensión de código de Visual Studio
 
 > línea de bala
 
