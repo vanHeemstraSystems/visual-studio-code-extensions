@@ -1,6 +1,6 @@
-Repository-Name
+Visual-Studio-Code-Erweiterungen
 
-# Repository-Name
+# Visual Studio Code-Erweiterung
 
 > Slugline
 
