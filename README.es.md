@@ -10,7 +10,7 @@ extensiones-de-código-visual-studio
 
 Texto
 
-## 100 - Introducción
+## 100 - Introduction
 
 Ver[README.md](./100/README.md)
 
