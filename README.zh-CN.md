@@ -1,6 +1,6 @@
 视觉工作室代码扩展
 
-# Visual Studio Code Extension
+# Visual Studio 代码扩展
 
 > 斯拉格莱恩
 
@@ -8,7 +8,7 @@
 
 **执行摘要**
 
-文本
+Text
 
 ## 100 - Introduction
 
