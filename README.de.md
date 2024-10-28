@@ -1,6 +1,6 @@
 Visual-Studio-Code-Erweiterungen
 
-# Visual Studio Code Extension
+# Visual Studio Code-Erweiterung
 
 > Slugline
 
