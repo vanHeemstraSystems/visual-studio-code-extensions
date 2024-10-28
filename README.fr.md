@@ -1,16 +1,16 @@
-nom du référentiel
+visual-studio-code-extenions
 
-# Nom du référentiel
+# Extension de code Visual Studio
 
 > Slugline
 
 [Références](./REFERENCES.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
-Text
+Texte
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -18,9 +18,9 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
