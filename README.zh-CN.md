@@ -1,6 +1,6 @@
-存储库名称
+视觉工作室代码扩展
 
-# Repository Name
+# Visual Studio 代码扩展
 
 > 斯拉格莱恩
 
@@ -20,8 +20,8 @@
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
