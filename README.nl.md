@@ -1,6 +1,6 @@
-repositorynaam
+visual-studio-code-extensies
 
-# Naam van opslagplaats
+# Visual Studio Code-extensie
 
 > Slaklijn
 
