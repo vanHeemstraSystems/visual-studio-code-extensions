@@ -1,6 +1,6 @@
 視覺工作室代碼擴展
 
-# Visual Studio Code Extension
+# Visual Studio 程式碼擴充
 
 > 斯拉格萊恩
 
