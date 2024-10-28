@@ -1,4 +1,4 @@
-visual-studio-code-extenions
+ملحقات رمز الاستوديو المرئي
 
 # ملحق كود Visual Studio
 
@@ -6,7 +6,7 @@ visual-studio-code-extenions
 
 [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
