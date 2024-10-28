@@ -4,7 +4,7 @@ nombre-repositorio
 
 > línea de bala
 
-[Referencias](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
