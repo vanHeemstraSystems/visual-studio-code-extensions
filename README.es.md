@@ -1,4 +1,4 @@
-extensiones-de-código-visual-studio
+visual-studio-code-extenions
 
 # Extensión de código de Visual Studio
 
