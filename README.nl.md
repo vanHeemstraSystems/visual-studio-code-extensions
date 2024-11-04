@@ -2,13 +2,15 @@ visual-studio-code-extensies
 
 # Visual Studio Code-extensie
 
-> Slaklijn
+> Extensies die helpen bij de ontwikkeling en implementatie
 
 [Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
-Tekst
+-   MakeFile-hulpmiddelen
+-   PostgreSQL
+-   Prettier
 
 ## 100 - Inleiding
 
