@@ -1,14 +1,16 @@
-visual-studio-code-extenions
+视觉工作室代码扩展
 
 # Visual Studio 代码扩展
 
-> 斯拉格莱恩
+> 有助于开发和部署的扩展
 
 [参考](./REFERENCES.md)
 
 **执行摘要**
 
-文本
+-   生成文件工具
+-   PostgreSQL
+-   更漂亮
 
 ## 100 - 简介
 
