@@ -1,13 +1,15 @@
 visual-studio-code-extenions
 # Visual Studio Code Extension
 
-> Slugline
+> Extensions that help with development and deployment
 
 [References](./REFERENCES.md)
 
 **Executive Summary**
 
-Text
+- MakeFile Tools
+- PostgreSQL
+- Prettier
 
 ## 100 - Introduction
 
