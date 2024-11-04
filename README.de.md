@@ -2,13 +2,15 @@ Visual-Studio-Code-Erweiterungen
 
 # Visual Studio Code-Erweiterung
 
-> Slugline
+> Erweiterungen, die bei der Entwicklung und Bereitstellung helfen
 
 [Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
 
-Text
+-   MakeFile-Tools
+-   PostgreSQL
+-   Hübscher
 
 ## 100 - Einführung
 
