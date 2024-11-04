@@ -8,7 +8,7 @@ Visual-Studio-Code-Erweiterungen
 
 **Zusammenfassung**
 
--   MakeFile-Tools
+-   MakeFile Tools
 -   PostgreSQL
 -   Hübscher
 
