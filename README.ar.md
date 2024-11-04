@@ -4,7 +4,7 @@
 
 > الإضافات التي تساعد في التطوير والنشر
 
-[References](./REFERENCES.md)
+[مراجع](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
@@ -12,7 +12,7 @@
 -   PostgreSQL
 -   أجمل
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
