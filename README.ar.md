@@ -6,7 +6,7 @@
 
 [مراجع](./REFERENCES.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 -   أدوات MakeFile
 -   PostgreSQL
@@ -18,7 +18,7 @@
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
@@ -26,4 +26,4 @@
 
 ## 400 - الخاتمة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
