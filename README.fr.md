@@ -1,14 +1,16 @@
-visual-studio-code-extenions
+extensions de code-visual-studio
 
 # Extension de code Visual Studio
 
-> Slugline
+> Extensions qui aident au développement et au déploiement
 
 [Références](./REFERENCES.md)
 
 **Résumé exécutif**
 
-Texte
+-   Outils MakeFile
+-   PostgreSQL
+-   Plus jolie
 
 ## 100 - Introduction
 
@@ -18,7 +20,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
