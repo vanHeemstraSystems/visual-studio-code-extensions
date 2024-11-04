@@ -2,15 +2,17 @@
 
 # ملحق كود Visual Studio
 
-> سلوجلاين
+> الإضافات التي تساعد في التطوير والنشر
 
-[مراجع](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
-نص
+-   أدوات MakeFile
+-   PostgreSQL
+-   أجمل
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
