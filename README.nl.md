@@ -10,7 +10,7 @@ visual-studio-code-extensies
 
 -   MakeFile-hulpmiddelen
 -   PostgreSQL
--   Prettier
+-   Mooier
 
 ## 100 - Inleiding
 
