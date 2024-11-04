@@ -1,12 +1,12 @@
-extensiones-de-código-visual-studio
+visual-studio-code-extenions
 
 # Extensión de código de Visual Studio
 
-> Extensiones que ayudan con el desarrollo y la implementación
+> Extensions that help with development and deployment
 
 [Referencias](./REFERENCES.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 -   Herramientas de creación de archivos
 -   PostgreSQL
@@ -16,7 +16,7 @@ extensiones-de-código-visual-studio
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
@@ -24,6 +24,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
-See [README.md](./400/README.md)
+Ver[README.md](./400/README.md)
