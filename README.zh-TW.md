@@ -2,13 +2,15 @@
 
 # Visual Studio 程式碼擴充
 
-> 斯拉格萊恩
+> 有助於開發和部署的擴展
 
 [參考](./REFERENCES.md)
 
-**Executive Summary**
+**執行摘要**
 
-文字
+-   產生文件工具
+-   PostgreSQL
+-   更漂亮
 
 ## 100 - 簡介
 
