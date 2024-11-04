@@ -1,4 +1,4 @@
-视觉工作室代码扩展
+visual-studio-code-extenions
 
 # Visual Studio 代码扩展
 
@@ -12,11 +12,11 @@
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
