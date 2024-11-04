@@ -8,7 +8,7 @@ extensions de code-visual-studio
 
 **Résumé exécutif**
 
--   MakeFile Tools
+-   Outils MakeFile
 -   PostgreSQL
 -   Plus jolie
 
