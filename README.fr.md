@@ -8,7 +8,7 @@ extensions de code-visual-studio
 
 **Résumé exécutif**
 
--   Outils MakeFile
+-   MakeFile Tools
 -   PostgreSQL
 -   Plus jolie
 
@@ -20,7 +20,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
