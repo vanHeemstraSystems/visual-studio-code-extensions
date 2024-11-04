@@ -2,3 +2,5 @@
 vscode:
   extensions:
     - ckolkman.vscode-postgres
+    - ms-vscode.makefile-tools
+    - esbenp.prettier-vscode
