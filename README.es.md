@@ -2,19 +2,21 @@ extensiones-de-código-visual-studio
 
 # Extensión de código de Visual Studio
 
-> línea de bala
+> Extensiones que ayudan con el desarrollo y la implementación
 
 [Referencias](./REFERENCES.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
-Texto
+-   Herramientas de creación de archivos
+-   PostgreSQL
+-   mas bonita
 
 ## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
@@ -22,6 +24,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusión
+## 400 - Conclusion
 
-Ver[README.md](./400/README.md)
+See [README.md](./400/README.md)
